@@ -1,0 +1,3 @@
+[submodule "ModuleApp"]
+	path = ModuleApp
+	url = https://github.com/dcardosoweb/ModuleApp.git
